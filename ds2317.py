@@ -22,7 +22,7 @@ M172Nodes = {
 def ref49615():
     """ Belle', 2003, 'P. Krokovny et al """
     return Publication(49615,[
-        Measurement('M172', 'M172M', '123.8 x 10^6 BBbar events'),
+        Measurement('M172', 'M172M',  '123.8 x 10^6 BBbar events'),
         Measurement('M172', 'M172DM', '123.8 x 10^6 BBbar events')
     ]
 
